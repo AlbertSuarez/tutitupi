@@ -3862,3 +3862,20 @@
 		.clickable:hover {
 			filter: brightness(120%);
 		}
+
+	.columns dd {
+		width: 33%;
+  		float: left;
+	}
+
+	.columns dt {
+		padding-bottom: 10px;
+	}
+
+	.padding-space {
+		padding-bottom: 50px;
+	}
+
+	.mini-padding-space {
+		padding-bottom: 25px;	
+	}
